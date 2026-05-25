@@ -9,3 +9,7 @@ Ataques de engenharia social e phishing demonstram claramente essa vulnerabilida
 Além disso, práticas inseguras como reutilização de senhas, compartilhamento de contas e negligência com atualizações aumentam os riscos. Isso mostra que a segurança da informação depende não apenas de ferramentas tecnológicas, mas também da conscientização e treinamento das pessoas.
 
 Portanto, investir em educação digital e cultura de segurança é tão importante quanto investir em tecnologia. Usuários bem informados reduzem significativamente as chances de ataques e ajudam a proteger dados e sistemas.
+
+## Referência
+
+- [O que foi o ataque de ransomware WannaCry? - Cloudflare](https://www.cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/)
