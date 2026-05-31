@@ -6,7 +6,7 @@
 ###  1. Ameaça escolhida  
 
 - Malware: Códigos maliciosos que executam ações danosas e atividades maliciosas no sistema e/ou na máquina.
-- Cartilha utilizada: [Cert.br - Códigos Maliciosos](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-codigos-maliciosos-digital-govbr.pdf)
+- Cartilha utilizada como exemplo: [Cert.br - Códigos Maliciosos](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-codigos-maliciosos-digital-govbr.pdf)
 
 2. **Produção do artefato criativo**  
    - O artefato produzido foi um infográfico sobre malwares.
