@@ -3,24 +3,21 @@
 
 ---
 
-###  Yuri Marques (Foco em Inteligência Artificial)
+###  Yuri Marques (Inteligência Artificial)
 **Tema:** Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?
 
-* **Ideia Central:** As defesas antigas e tradicionais (baseadas em assinaturas estáticas de antivírus e regras fixas de firewall) simplesmente não funcionam mais contra vírus e malwares modernos, que são extremamente rápidos, mutáveis e automatizados. A Inteligência Artificial (IA) muda o jogo ao aprender continuamente o comportamento normal do computador e da rede interna em vez de apenas buscar ameaças já conhecidas.
-* **Como Protege (Mecanismos e Atributos):** Se um ransomware ou processo malicioso tentar bloquear, alterar ou criptografar arquivos de repente, os algoritmos de IA descobrem o ataque sozinhos através da análise desse comportamento estranho. O sistema intervém de forma autônoma e isola o computador infectado da rede em milissegundos. Agindo de forma infinitamente mais rápida do que uma reação humana, a tecnologia preserva diretamente a **Integridade** e a **Disponibilidade** dos dados organizacionais contra ataques inéditos de "Dia Zero".
+As tecnologias tradicionais de segurança, como antivírus baseados em assinaturas e firewalls com regras fixas, já não conseguem acompanhar a velocidade e a sofisticação dos malwares modernos. A Inteligência Artificial fortalece a segurança da informação ao aprender continuamente o comportamento normal dos computadores e da rede, identificando atividades suspeitas mesmo quando se trata de ameaças inéditas. Caso um ransomware tente criptografar arquivos ou um processo malicioso altere dados de forma anormal, a IA detecta rapidamente esse comportamento, bloqueia a ameaça e pode até isolar automaticamente o dispositivo infectado da rede. Dessa forma, protege principalmente a integridade e a disponibilidade das informações, reduzindo os impactos de ataques de Dia Zero.
 
 ---
 
-###  Henrique Mota (Foco em Biometria e Senhas)
+###  Henrique Mota (Biometria e Senhas)
 **Tema:** Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?
 
-* **Ideia Central:** O elo mais vulnerável na corrente da segurança da informação continua sendo o fator humano, muito explorado por cibercriminosos através de engenharia social (como e-mails e mensagens falsas de *Phishing*) e pelo uso generalizado de senhas alfanuméricas fracas ou repetidas.
-* **Como Protege (Mecanismos e Atributos):** As novas tecnologias de **MFA (Autenticação Multifator / Duas Etapas)** adaptativa e o uso de **Biometria** avançada (como leitura de impressão digital ou reconhecimento facial integrado) transformam o controle de acesso. Elas garantem que, mesmo em um cenário onde o criminoso consiga roubar ou descobrir a senha escrita da vítima através de um site falso, o invasor será bloqueado imediatamente no próximo estágio. Como ele não possui o rosto, a digital ou o dispositivo físico verificado do dono legítimo da conta, a **Confidencialidade** e a **Privacidade** dos sistemas permanecem totalmente invioladas.
+O fator humano continua sendo uma das maiores vulnerabilidades da segurança da informação, principalmente devido ao uso de senhas fracas e aos ataques de engenharia social, como phishing. Para reduzir esses riscos, novas tecnologias como a autenticação multifator (MFA) e a biometria avançada fortalecem o controle de acesso aos sistemas. Mesmo que um criminoso descubra ou roube a senha de um usuário, ele ainda precisará de um segundo fator de autenticação, como uma impressão digital, reconhecimento facial ou dispositivo confiável. Isso impede acessos não autorizados e garante a confidencialidade e a privacidade das informações, tornando as contas muito mais seguras.
 
 ---
 
-###  Igor Gonçalves (Foco em Nuvem e Redes Zero Trust)
+###  Igor Gonçalves (Nuvem e Redes Zero Trust)
 **Tema:** Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?
 
-* **Ideia Central:** Com a ascensão do trabalho remoto e o uso de dispositivos móveis, o antigo conceito corporativo de "rede interna segura" ou perímetro protegido deixou de existir. A nova regra fundamental de segurança da informação é o modelo **Zero Trust** ("nunca confiar, sempre verificar tudo e todos").
-* **Como Protege (Mecanismos e Atributos):** Através da **microssegmentação de redes**, a infraestrutura inteira é dividida em pedaços e zonas isoladas uns dos outros. Se um computador for infectado por um vírus, as políticas restritivas do Zero Trust fazem com que ele fique preso naquela "sala" virtual, impedindo a movimentação lateral e evitando que contamine o resto da empresa. Complementarmente, os **Backups na Nuvem** (Cloud Computing) automatizados e protegidos contra exclusão garantem que a organização recupere o estado limpo de seus arquivos rapidamente sem ceder à extorsão de criminosos, salvando categoricamente o pilar da **Disponibilidade**.
+Com o crescimento do trabalho remoto e do uso de dispositivos móveis, o conceito de rede interna totalmente confiável deixou de existir. O modelo Zero Trust fortalece a segurança ao adotar o princípio de "nunca confiar, sempre verificar", exigindo validações constantes para usuários e dispositivos. Além disso, a microssegmentação divide a rede em áreas isoladas, impedindo que um ataque se espalhe para toda a organização. Complementando essa proteção, os backups em nuvem garantem a recuperação rápida dos dados em caso de incidentes, como ataques de ransomware. Assim, a empresa consegue manter a disponibilidade dos serviços e minimizar os prejuízos causados por invasões ou falhas de segurança.
